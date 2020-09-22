@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\backup\f\sunyong\Java\课件\大数据离线项目\直播课件\Module 5 - 日志数据导入 - 源代码\event-ingestion-flume\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
